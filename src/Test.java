@@ -1,6 +1,6 @@
 
 public class Test {
-
+	// my test
 	public static void main(String[] args) {
 		 PhotoManager manager = new PhotoManager();
 		 Photo photo1 = new Photo("pcINroom.jpg",toTagsLinkedList("pc, hardware"));
